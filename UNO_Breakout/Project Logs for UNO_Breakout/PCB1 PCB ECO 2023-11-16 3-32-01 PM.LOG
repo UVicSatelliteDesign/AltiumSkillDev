@@ -1,0 +1,48 @@
+Change Component Description : Designator=BRD1 Old Description=A000066 | Arduino Uno Rev3 Arduino Corporation Embedded System Development Boards & Kits Microcontroller 16MHz - Arrow.com New Description=Microcontroller board based on the ATmega328P.
+Change component parameters: Designator = "BRD1" ("BRD1"); Footprint = "ARDUINO_A000066"; UniqueID = "\IOVPRIWZ" ("\IOVPRIWZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Uno%20Rev3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "Arduino Uno Rev3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Uno%20Rev3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BRD2(SSD1306 I2C Screen)
+Added Component: Designator=R5(RES_RMCF0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_RMCF0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_RMCF0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_RMCF0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RMCF0603FT10K0"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BRD1-A4(SDA
+Add Pin To Net: Unknown Pin: Pin BRD1-A5(SCL
+Added Pin To Net: NetName=GND Pin=BRD2-1
+Added Pin To Net: NetName=GND Pin=BRD2-1
+Added Pin To Net: NetName=GND Pin=BRD2-1
+Added Pin To Net: NetName=+5 Pin=BRD2-2
+Added Pin To Net: NetName=SCL Pin=BRD2-3
+Added Pin To Net: NetName=SDA Pin=BRD2-4
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=SW1 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=SW2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=SW3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=SW4 Pin=R8-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Added Member To Class: ClassName=Scheme1 Member=Component BRD2 I2C Screen Board
+Added Member To Class: ClassName=Scheme1 Member=Component R5 RES_RMCF0603FT10K0
+Added Member To Class: ClassName=Scheme1 Member=Component R6 RES_RMCF0603FT10K0
+Added Member To Class: ClassName=Scheme1 Member=Component R7 RES_RMCF0603FT10K0
+Added Member To Class: ClassName=Scheme1 Member=Component R8 RES_RMCF0603FT10K0
+Add Class Member: Failed to add class member : Component X1 Potentiometer
