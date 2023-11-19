@@ -1,13 +1,28 @@
 Protel Design System Design Rule Check
 PCB File : F:\Documents\SatClub\Repos\AltiumSkillDev\UNO_Breakout\PCB1.PcbDoc
 Date     : 2023-11-19
-Time     : 9:10:49 AM
+Time     : 10:43:26 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-Rule Violations :0
+   Violation between Clearance Constraint: (Collision < 10mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A0(3640mil,3700mil) on Multi-Layer 
+Rule Violations :1
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-(3040mil,2400mil) on Multi-Layer Location : [X = 3040mil][Y = 2400mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-(3040mil,3500mil) on Multi-Layer Location : [X = 3040mil][Y = 3500mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A0(3640mil,3700mil) on Multi-Layer Location : [X = 3640mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A1(3540mil,3700mil) on Multi-Layer Location : [X = 3540mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A2(3440mil,3700mil) on Multi-Layer Location : [X = 3440mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A3(3340mil,3700mil) on Multi-Layer Location : [X = 3340mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A4(3240mil,3700mil) on Multi-Layer Location : [X = 3240mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-A5(3140mil,3700mil) on Multi-Layer Location : [X = 3140mil][Y = 3700mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D0(3140mil,1800mil) on Multi-Layer Location : [X = 3140mil][Y = 1800mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D1(3240mil,1800mil) on Multi-Layer Location : [X = 3240mil][Y = 1800mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D2(3340mil,1800mil) on Multi-Layer Location : [X = 3340mil][Y = 1800mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D3(3440mil,1800mil) on Multi-Layer Location : [X = 3440mil][Y = 1800mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D4(3540mil,1800mil) on Multi-Layer Location : [X = 3540mil][Y = 1800mil]
+   Violation between Short-Circuit Constraint: Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad BRD1-D5(3640mil,1800mil) on Multi-Layer Location : [X = 3640mil][Y = 1800mil]
+Rule Violations :14
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -43,6 +58,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 15
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
