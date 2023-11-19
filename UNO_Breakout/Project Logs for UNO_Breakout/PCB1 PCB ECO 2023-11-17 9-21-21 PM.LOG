@@ -1,0 +1,28 @@
+Added Component: Designator=BRD1(ARDUINO_A000066)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/Arduino%20Uno%20Rev3/Arduino/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "Arduino Uno Rev3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/Arduino%20Uno%20Rev3/Arduino/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=BRD1-5V
+Added Pin To Net: NetName=NetBRD1_A0 Pin=BRD1-A0
+Added Pin To Net: NetName=LED4 Pin=BRD1-D6
+Added Pin To Net: NetName=LED3 Pin=BRD1-D7
+Added Pin To Net: NetName=LED2 Pin=BRD1-D8
+Added Pin To Net: NetName=LED1 Pin=BRD1-D9
+Added Pin To Net: NetName=SW4 Pin=BRD1-D10
+Added Pin To Net: NetName=SW3 Pin=BRD1-D11
+Added Pin To Net: NetName=SW2 Pin=BRD1-D12
+Added Pin To Net: NetName=SW1 Pin=BRD1-D13
+Added Pin To Net: NetName=GND Pin=BRD1-GND_1
+Added Pin To Net: NetName=GND Pin=BRD1-GND_2
+Added Pin To Net: NetName=SCL Pin=BRD1-SCL
+Added Pin To Net: NetName=SDA Pin=BRD1-SDA
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Added Member To Class: ClassName=Scheme1 Member=Component BRD1 A000066
+Add Class Member: Failed to add class member : Component X1 Potentiometer

@@ -1,0 +1,5 @@
+Change Component Kind : Designator=BRD1 Old Kind=Net Tie (In BOM) New Kind=Standard
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Class Member: Failed to add class member : Component X1 Potentiometer

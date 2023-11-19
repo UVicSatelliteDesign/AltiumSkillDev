@@ -1,0 +1,15 @@
+Change Physical Footprint: Designator=BRD1 Old Footprint=ARDUINO_A000066 New Footprint=ARDUINO_A000066
+Change Physical Footprint: Designator=BRD2 Old Footprint=SSD1306 I2C Screen New Footprint=SSD1306 I2C Screen
+Change Physical Footprint: Designator=D1 Old Footprint=Harvatek 0603 LED New Footprint=Harvatek 0603 LED
+Change Physical Footprint: Designator=D2 Old Footprint=Harvatek 0603 LED New Footprint=Harvatek 0603 LED
+Change Physical Footprint: Designator=D3 Old Footprint=Harvatek 0603 LED New Footprint=Harvatek 0603 LED
+Change Physical Footprint: Designator=D4 Old Footprint=Harvatek 0603 LED New Footprint=Harvatek 0603 LED
+Change Physical Footprint: Designator=R1 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R2 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R3 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R4 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R5 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R6 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R7 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=R8 Old Footprint=RES_RMCF0603 New Footprint=RES_RMCF0603
+Change Physical Footprint: Designator=S1 Old Footprint=SW_DS04-254-2-04BK-SMT New Footprint=SW_DS04-254-2-04BK-SMT

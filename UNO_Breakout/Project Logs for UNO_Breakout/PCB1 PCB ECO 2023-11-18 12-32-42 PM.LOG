@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=LED4 Pin=BRD1-D6
+Added Pin To Net: NetName=LED3 Pin=BRD1-D7
+Added Pin To Net: NetName=LED2 Pin=BRD1-D8
+Added Pin To Net: NetName=LED1 Pin=BRD1-D9
+Added Pin To Net: NetName=SW4 Pin=BRD1-D10
+Added Pin To Net: NetName=SW3 Pin=BRD1-D11
+Added Pin To Net: NetName=SW2 Pin=BRD1-D12
+Added Pin To Net: NetName=SW1 Pin=BRD1-D13
+Added Pin To Net: NetName=SCL Pin=BRD1-SCL
+Added Pin To Net: NetName=SDA Pin=BRD1-SDA
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Class Member: Failed to add class member : Component X1 Potentiometer
